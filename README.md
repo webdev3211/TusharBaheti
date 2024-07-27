@@ -1,7 +1,7 @@
-[![Header](https://github.com/Manvityagi/ManviTyagi/blob/main/assets/header.jpg "Header")](https://github.com/Manvityagi)
+[![Header](https://github.com/webdev3211/TusharBaheti/blob/main/assets/Tushar.png "Header")](https://github.com/webdev3211)
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/tusharbaheti28/"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tusharbaheti28/"><img height="30" src="https://github.com/webdev3211/TusharBaheti/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ### Hello, techies 👋 <img src=" https://tenor.com/1sr2.gif" width="30px">
@@ -18,7 +18,7 @@ I am Tushar Baheti and I am a Software Engineer with expertise in Full Stack Dev
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/cpp.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/python.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/javascript.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/java.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/webdev3211/TusharBaheti/blob/main/assets/Java.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/nodejs.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mysql.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mongoDB.png"></code>&nbsp;&nbsp;
